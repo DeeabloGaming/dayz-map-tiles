@@ -1,0 +1,22 @@
+{
+  "maps": {
+    "chernarus": {
+      "tileCount": 900,
+      "tilesX": 30,
+      "tilesY": 30,
+      "tilePattern": "maps/chernarus/layers/S_{x:03}_{y:03}_lco.png"
+    },
+    "livonia": {
+      "tileCount": 625,
+      "tilesX": 25,
+      "tilesY": 25,
+      "tilePattern": "maps/livonia/layers/S_{x:03}_{y:03}_lco.png"
+    },
+    "sakhal": {
+      "tileCount": 900,
+      "tilesX": 30,
+      "tilesY": 30,
+      "tilePattern": "maps/sakhal/layers/S_{x:03}_{y:03}_lco.png"
+    }
+  }
+}
